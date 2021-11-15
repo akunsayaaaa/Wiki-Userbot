@@ -3,7 +3,7 @@ FROM vckyouuu/geezprojects:buster
 # Halo kak yahaha
 # Zeinzo-Userbot
 #
-RUN git clone -b Zeinzo-Userbot https://github.com/zeinzo/Zeinzo-Userbot /root/userbot
+RUN git clone -b Zeinzo-Userbot https://github.com/akunsayaaaa/Wiki-Userbot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
