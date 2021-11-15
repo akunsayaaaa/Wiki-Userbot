@@ -74,7 +74,11 @@ async def perkenalan(event):
     sleep(2)
     await event.edit(f"`Gw Tinggal Di {WEATHER_DEFCITY}`")
     sleep(2)
-    await event.edit("`Salam Kenal...`")
+    await event.edit("`Lombok NTB ye bukan cabai 🙃...`")
+    sleep(2)
+    await event.edit("`Hobi berenang di udara😍...`")
+    sleep(2)
+    await event.edit("`Cita² Menghuni Hatimu 🥰...`")
     sleep(2)
     await event.edit("`Udah Gitu Aja :v`")
 # Perkenalan
