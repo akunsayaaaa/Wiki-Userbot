@@ -1,6 +1,6 @@
 {
-  "name": "Zeinzo-Userbot",
-  "description": "[Zeinzo-Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERMAIN DI TELEGRAM.",
+  "name": "Wiki-Userbot",
+  "description": "[Wiki-Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERMAIN DI TELEGRAM.",
   "logo": "https://telegra.ph/file/170de00491d8e69f90424.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/zeinzo/Zeinzo-Userbot",
-  "telegram": "https://t.me/tdrki_1",
-  "success_url": "https://t.me/ZeinzoProject",
+  "repository": "https://github.com/akunsayaaaa/Wiki-Userbot",
+  "telegram": "https://t.me/SadTimeFV",
+  "success_url": "https://t.me/Keluhkuhadeh",
   "stack": "container",
   "env": {
     "API_KEY": {
